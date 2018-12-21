@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Example test run" duration-ms="43033" started-at="2018-11-08T11:47:23Z" finished-at="2018-11-08T11:48:06Z">
+    <groups>
+    </groups>
+    <test name="Simple Test" duration-ms="43033" started-at="2018-11-08T11:47:23Z" finished-at="2018-11-08T11:48:06Z">
+      <class name="com.google.example.GoogleTitleVerifyPageTest">
+        <test-method status="PASS" signature="setUpBeforeTest()[pri:0, instance:com.google.example.GoogleTitleVerifyPageTest@26be92ad]" name="setUpBeforeTest" is-config="true" duration-ms="40921" started-at="2018-11-08T11:47:23Z" finished-at="2018-11-08T11:48:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeTest -->
+        <test-method status="PASS" signature="titleVerify()[pri:0, instance:com.google.example.GoogleTitleVerifyPageTest@26be92ad]" name="titleVerify" duration-ms="16" started-at="2018-11-08T11:48:04Z" finished-at="2018-11-08T11:48:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleVerify -->
+        <test-method status="PASS" signature="setUpAfterTest()[pri:0, instance:com.google.example.GoogleTitleVerifyPageTest@26be92ad]" name="setUpAfterTest" is-config="true" duration-ms="2061" started-at="2018-11-08T11:48:04Z" finished-at="2018-11-08T11:48:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpAfterTest -->
+      </class> <!-- com.google.example.GoogleTitleVerifyPageTest -->
+    </test> <!-- Simple Test -->
+  </suite> <!-- Example test run -->
+</testng-results>
