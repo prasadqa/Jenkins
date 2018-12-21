@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="35.769" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="13.421" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -18,7 +18,7 @@
     <property name="user.country" value="US"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_144\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\chprasad\AppData\Local\Temp\surefire8528485992269392356\surefirebooter9178501916367424716.jar C:\Users\chprasad\AppData\Local\Temp\surefire8528485992269392356 2018-12-21T12-02-15_637-jvmRun1 surefire7908859824536866119tmp surefire_07422694337666625550tmp"/>
+    <property name="sun.java.command" value="C:\Users\chprasad\AppData\Local\Temp\surefire1310759073536857674\surefirebooter6582291608592303816.jar C:\Users\chprasad\AppData\Local\Temp\surefire1310759073536857674 2018-12-21T12-37-18_989-jvmRun1 surefire2387228771140540920tmp surefire_07147067908874825465tmp"/>
     <property name="surefire.test.class.path" value="D:\SeleniumSamples\maven\target\test-classes;D:\SeleniumSamples\maven\target\classes;C:\Users\chprasad\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.5\selenium-java-3.141.5.jar;C:\Users\chprasad\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.5\selenium-api-3.141.5.jar;C:\Users\chprasad\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.5\selenium-chrome-driver-3.141.5.jar;C:\Users\chprasad\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.5\selenium-edge-driver-3.141.5.jar;C:\Users\chprasad\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.5\selenium-firefox-driver-3.141.5.jar;C:\Users\chprasad\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.5\selenium-ie-driver-3.141.5.jar;C:\Users\chprasad\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.5\selenium-opera-driver-3.141.5.jar;C:\Users\chprasad\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.5\selenium-remote-driver-3.141.5.jar;C:\Users\chprasad\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.5\selenium-safari-driver-3.141.5.jar;C:\Users\chprasad\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.5\selenium-support-3.141.5.jar;C:\Users\chprasad\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\chprasad\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\chprasad\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;C:\Users\chprasad\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Users\chprasad\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Users\chprasad\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;C:\Users\chprasad\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\chprasad\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\chprasad\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\chprasad\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\chprasad\.m2\repository\org\testng\testng\6.14.3\testng-6.14.3.jar;C:\Users\chprasad\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Users\chprasad\.m2\repository\org\apache-extras\beanshell\bsh\2.0b6\bsh-2.0b6.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\chprasad"/>
@@ -31,7 +31,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\chprasad\AppData\Local\Temp\surefire8528485992269392356\surefirebooter9178501916367424716.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\chprasad\AppData\Local\Temp\surefire1310759073536857674\surefirebooter6582291608592303816.jar"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_144\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_144\jre\classes"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -60,5 +60,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="52.0"/>
   </properties>
-  <testcase name="titleVerify" classname="com.google.example.GoogleTitleVerifyPageTest" time="0.012"/>
+  <testcase name="titleVerify" classname="com.google.example.GoogleTitleVerifyPageTest" time="0.01"/>
 </testsuite>

@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Example test run" duration-ms="33301" started-at="2018-12-21T06:32:19Z" finished-at="2018-12-21T06:32:53Z">
+  <suite name="Example test run" duration-ms="12519" started-at="2018-12-21T07:07:21Z" finished-at="2018-12-21T07:07:33Z">
     <groups>
     </groups>
-    <test name="Simple Test" duration-ms="33301" started-at="2018-12-21T06:32:19Z" finished-at="2018-12-21T06:32:53Z">
+    <test name="Simple Test" duration-ms="12519" started-at="2018-12-21T07:07:21Z" finished-at="2018-12-21T07:07:33Z">
       <class name="com.google.example.GoogleTitleVerifyPageTest">
-        <test-method status="PASS" signature="setUpBeforeTest()[pri:0, instance:com.google.example.GoogleTitleVerifyPageTest@60addb54]" name="setUpBeforeTest" is-config="true" duration-ms="32519" started-at="2018-12-21T06:32:19Z" finished-at="2018-12-21T06:32:52Z">
+        <test-method status="PASS" signature="setUpBeforeTest()[pri:0, instance:com.google.example.GoogleTitleVerifyPageTest@60addb54]" name="setUpBeforeTest" is-config="true" duration-ms="11819" started-at="2018-12-21T07:07:21Z" finished-at="2018-12-21T07:07:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpBeforeTest -->
-        <test-method status="PASS" signature="titleVerify()[pri:0, instance:com.google.example.GoogleTitleVerifyPageTest@60addb54]" name="titleVerify" duration-ms="13" started-at="2018-12-21T06:32:52Z" finished-at="2018-12-21T06:32:52Z">
+        <test-method status="PASS" signature="titleVerify()[pri:0, instance:com.google.example.GoogleTitleVerifyPageTest@60addb54]" name="titleVerify" duration-ms="10" started-at="2018-12-21T07:07:32Z" finished-at="2018-12-21T07:07:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- titleVerify -->
-        <test-method status="PASS" signature="setUpAfterTest()[pri:0, instance:com.google.example.GoogleTitleVerifyPageTest@60addb54]" name="setUpAfterTest" is-config="true" duration-ms="752" started-at="2018-12-21T06:32:52Z" finished-at="2018-12-21T06:32:53Z">
+        <test-method status="PASS" signature="setUpAfterTest()[pri:0, instance:com.google.example.GoogleTitleVerifyPageTest@60addb54]" name="setUpAfterTest" is-config="true" duration-ms="674" started-at="2018-12-21T07:07:32Z" finished-at="2018-12-21T07:07:33Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpAfterTest -->

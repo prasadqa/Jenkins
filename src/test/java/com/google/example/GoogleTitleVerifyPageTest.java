@@ -25,7 +25,7 @@ public class GoogleTitleVerifyPageTest
 	public void titleVerify()
 	{
 		String actTitle = driver.getTitle();
-		Assert.assertEquals(actTitle, "Google");
+		Assert.assertEquals(actTitle, "Gogle");
 	}
 	
 	
